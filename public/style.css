@@ -1,0 +1,28 @@
+.main{
+    padding: 20px;
+    font-family: Arial;
+    box-shadow: 5px  5px 7px 5px #8888;
+}
+
+.container{
+    align-items: center;
+    text-align: center;
+    height: 100px;
+    width: 50%;
+    margin-left: 360px;
+}
+
+.col-mod-6 main{
+    text-align: center;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.logo{
+    width: 200px;
+    height: 300px;
+    margin-left: 625px;
+}
